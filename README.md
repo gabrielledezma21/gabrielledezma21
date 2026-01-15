@@ -74,7 +74,7 @@ Plataforma para gestionar prestadores medicos, sus agendas de turnos y afiliados
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gabrielagustinledezma/)
 * 📧 Email: *gabrielledezma@outlook.com*
-* 🌐 Portfolio: [*https://gabrielledezma-dev.framer.ai/](https://gabrielledezma-dev.framer.ai/)
+* 🌐 Portfolio: [https://gabrielledezma-dev.framer.ai/](https://gabrielledezma-dev.framer.ai/)
 
 ---
 
