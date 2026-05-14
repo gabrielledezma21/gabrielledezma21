@@ -1,81 +1,111 @@
-# 👋 ¡Hola! Soy Gabriel Ledezma
+# Gabriel Agustin Ledezma
 
-💻 **Desarrollador Backend** | 🎓 **Técnico Universitario en Programación** | 🎓 Estudiante de Licenciatura en Informática (UNAHUR)
+Backend Developer Jr especializado en Java, Spring Boot y Node.js, enfocado en desarrollo de APIs REST, arquitectura backend y bases de datos.
 
-Soy desarrollador backend con foco en el diseño y construcción de aplicaciones robustas, escalables y bien estructuradas. Tengo una sólida formación académica y experiencia trabajando principalmente con **Java y el ecosistema Spring**, además de bases de datos relacionales y no relacionales.
-
-Me interesa especialmente el desarrollo de **APIs**, la **arquitectura de software**, las **buenas prácticas**, y el uso de la tecnología como herramienta educativa.
+🎓 Técnico Universitario en Programación
+🎓 Estudiante de Licenciatura en Informática — UNAHUR
 
 ---
 
-## 🚀 Tecnologías y herramientas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-**Backend**
+---
+
+## 🚀 Stack principal
+
+### Backend
 
 * Java
-* Spring Boot, Spring Security, Spring Data JPA
-* Node.js, Express.js
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Node.js
+* Express.js
 * Python
 
-**Bases de datos**
+### Bases de datos
 
 * PostgreSQL
 * MySQL
 * MongoDB
 * SQLite
 
-**Frontend (conocimientos)**
+### Herramientas
 
-* HTML5
-* CSS3
-* JavaScript
-* React (nivel inicial)
-
-**Herramientas y otros**
-
+* Docker
 * Git & GitHub
 * Maven
-* Docker (uso básico)
-* Linux (Ubuntu)
-* Postman / Insomnia
+* Linux
 * Swagger
-* Cloud (AWS, Azure, OCI)
+* Postman
+* AWS
+* Azure
+* OCI
 
 ---
 
 ## 📌 Proyectos destacados
 
-🔹 **Sistema Fullstack con Java y PostgreSQL**
-Backend desarrollado con Spring Boot y frontend en HTML, CSS y JavaScript. Incluye manejo de usuarios, lógica de negocio y persistencia de datos.
+### 🔹 MedIntegral — Plataforma de gestión médica
 
-🔹 **Sistema de login con Python y SQLite**
-Proyecto académico enfocado en autenticación de usuarios y operaciones CRUD.
+Sistema backend desarrollado con Node.js, Express.js y PostgreSQL para administración de afiliados, prestadores y agendas médicas.
 
-🔹 **Proyecto educativo con API de OpenAI**
-Plataforma pensada para generar ejercicios, analizar respuestas de estudiantes y detectar patrones de errores para reforzar el aprendizaje.
+🔗 [Ver repositorio](https://github.com/DesApp-2025c2-Grupo3/MedIntegral-backend)
 
-🔹 **Sistema de gestion y administracion de obra social  con Node.js y Express.js**
-Plataforma para gestionar prestadores medicos, sus agendas de turnos y afiliados.
+**Tecnologías:**
+Node.js • Express.js • PostgreSQL • Sequelize • Docker
 
+---
 
-> 📂 Podés encontrar más detalles en los repositorios de este perfil.
+### 🔹 API REST Foro — Spring Boot
+
+API REST desarrollada con Java y Spring Boot con autenticación JWT, arquitectura REST y persistencia relacional.
+
+🔗 [Ver repositorio](https://github.com/gabrielledezma21/foro)
+
+**Tecnologías:**
+Java • Spring Boot • Spring Security • JWT • PostgreSQL • Flyway
+
+---
+
+### 🔹 Plataforma educativa con OpenAI
+
+Proyecto orientado a generación de ejercicios y análisis de respuestas para reforzar el aprendizaje de estudiantes.
+
+**Tecnologías:**
+Python • OpenAI API • REST APIs
+
+---
+
+## 🧠 Intereses
+
+* Arquitectura backend
+* APIs REST
+* Clean Code
+* Testing
+* Docker & Cloud
+* Diseño orientado a objetos
 
 ---
 
 ## 🎯 Actualmente
 
-* 📚 Cursando la **Licenciatura en Informática** en la Universidad de Hurlingham
-* 💼 Abierto a **oportunidades laborales** como desarrollador backend junior
-* 🧠 Profundizando conocimientos en arquitectura, testing y buenas prácticas
+* Profundizando conocimientos en arquitectura backend y testing
+* Construyendo proyectos con Spring Boot y Docker
+* Buscando oportunidades como Backend Developer Jr
 
 ---
 
 ## 📫 Contacto
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gabrielagustinledezma/)
-* 📧 Email: *gabrielledezma@outlook.com*
-* 🌐 Portfolio: [https://gabrielledezma-dev.framer.ai/](https://gabrielledezma-dev.framer.ai/)
+* 🌐 [Portfolio](https://gabrielledezma-dev.framer.ai/)
+* 📧 Email: [gabrielledezma@outlook.com](mailto:gabrielledezma@outlook.com)
 
 ---
 
-⭐ Si te interesa alguno de mis proyectos o querés contactarme, ¡no dudes en escribirme!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielledezma21\&layout=compact\&theme=tokyonight)
