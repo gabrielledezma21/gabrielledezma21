@@ -108,4 +108,3 @@ Python • OpenAI API • REST APIs
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielledezma21\&layout=compact\&theme=tokyonight)
