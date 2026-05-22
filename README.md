@@ -72,15 +72,6 @@ Java • Spring Boot • Spring Security • JWT • PostgreSQL • Flyway
 
 ---
 
-### 🔹 Plataforma educativa con OpenAI
-
-Proyecto orientado a generación de ejercicios y análisis de respuestas para reforzar el aprendizaje de estudiantes.
-
-**Tecnologías:**
-Python • OpenAI API • REST APIs
-
----
-
 ## 🧠 Intereses
 
 * Arquitectura backend
