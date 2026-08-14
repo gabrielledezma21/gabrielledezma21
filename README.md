@@ -11,7 +11,7 @@ Desarrollo APIs REST y aplicaciones orientadas a resolver problemas reales, con 
 🔎 Buscando oportunidades como Backend Developer Jr.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Ledezma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielagustinledezma/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielledezma-dev.framer.ai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://gabrielledezma-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielledezma@outlook.com)
 
 </div>
@@ -89,6 +89,6 @@ Portfolio responsive donde presento mi experiencia, stack y proyectos principale
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/gabrielagustinledezma/) · [Portfolio](https://gabrielledezma-dev.framer.ai/) · [Email](mailto:gabrielledezma@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/gabrielagustinledezma/) · [Portfolio](https://gabrielledezma-portfolio.vercel.app) · [Email](mailto:gabrielledezma@outlook.com)
 
 </div>
