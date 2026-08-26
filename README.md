@@ -22,7 +22,7 @@ Desarrollo APIs REST y aplicaciones orientadas a resolver problemas reales, con 
 
 Me especializo en desarrollo backend con **Java, Spring Boot y Node.js**. Me interesa construir APIs seguras, modelar correctamente las reglas de negocio y acompañar cada proyecto con documentación, pruebas y una configuración clara para su despliegue.
 
-También tengo experiencia integrando frontend y backend con **React, Next.js y TypeScript**, lo que me permite comprender el flujo completo de una aplicación.
+También tengo experiencia integrando frontend y backend con **React, Next.js y TypeScript**, lo que me permite comprender el flujo completo de una aplicación. Participé tanto en proyectos individuales como grupales, trabajando con ramas, pull requests e integración entre equipos.
 
 ## Tecnologías
 
@@ -52,29 +52,35 @@ También tengo experiencia integrando frontend y backend con **React, Next.js y 
 
 ## Proyectos destacados
 
-### [API REST Foro](https://github.com/gabrielledezma21/foro)
+### [Rectificadora · Gestión integral de taller](https://gabrielledezma-portfolio.vercel.app)
 
-Backend de un foro con autenticación JWT y gestión de usuarios, cursos, tópicos y respuestas. Incluye autorización por propietario o administrador, validaciones de negocio, migraciones con Flyway, documentación OpenAPI/Swagger, pruebas unitarias, Docker y verificación continua.
+Sistema full stack para administrar clientes, vehículos, órdenes, tareas, empleados, pagos y respaldos. Incluye autenticación JWT, permisos granulares para tres roles, flujo controlado de órdenes, auditoría y seguimiento del trabajo del taller. El código se mantiene privado; la presentación y demostración están disponibles desde el portfolio.
 
-**Java · Spring Boot · Spring Security · PostgreSQL · Flyway · JUnit**
+**Java 21 · Spring Boot · Spring Security · PostgreSQL · React · TypeScript · Docker**
 
-### [MedIntegral](https://github.com/gabrielledezma21/obra-social) · [Frontend](https://github.com/gabrielledezma21/obra-social-frontend)
+### [Sistema de Turnos](https://github.com/gabrielledezma21/sistema-turnos) · [Demo](https://sistema-turnos-online.vercel.app/)
 
-Plataforma de gestión médica desarrollada en equipo. Administra afiliados, grupos familiares, prestadores, centros médicos, agendas y turnos. Cuenta con API documentada mediante Swagger y una interfaz web responsive.
-
-**Node.js · Express · MongoDB · Redis · React · Material UI**
-
-### [Sistema de turnos](https://github.com/gabrielledezma21/sistema-turnos)
-
-Aplicación para reservar y administrar turnos, con disponibilidad configurable, prevención de reservas superpuestas, panel administrativo, estados de confirmación, enlaces privados de gestión y reglas de acceso en la base de datos.
+Aplicación de reservas con disponibilidad configurable, prevención de superposiciones, panel profesional, estados de confirmación, enlaces privados de gestión y reglas Row Level Security aplicadas en PostgreSQL.
 
 **Next.js · TypeScript · Supabase · PostgreSQL · Jest**
 
-### [Portfolio personal](https://github.com/gabrielledezma21/gabrielledezma-portfolio)
+### [MedIntegral · Backend](https://github.com/gabrielledezma21/obra-social) · [Frontend](https://github.com/gabrielledezma21/obra-social-frontend)
 
-Portfolio responsive donde presento mi experiencia, stack y proyectos principales mediante una interfaz inspirada en APIs y herramientas de desarrollo.
+Plataforma de gestión administrativa y asistencial para una obra social. Administra afiliados, grupos familiares, prestadores, centros médicos, agendas, turnos, solicitudes e historia clínica. El proyecto original fue grupal y esta versión fue posteriormente integrada, ampliada y mantenida por mí.
 
-**Next.js · TypeScript · Tailwind CSS**
+**Node.js · Express · MongoDB · Redis · React · Material UI**
+
+### [Red Social · Frontend](https://github.com/gabrielledezma21/red-social-frontend) · [Backend](https://github.com/gabrielledezma21/anti-social-mongo-4-bits)
+
+Aplicación full stack desarrollada en equipo para gestionar perfiles, publicaciones, imágenes, comentarios y etiquetas. Integra una SPA en React con una API REST, persistencia documental y documentación Swagger.
+
+**React · Vite · Node.js · Express · MongoDB · Docker**
+
+### [Foro Hub API](https://github.com/gabrielledezma21/foro)
+
+API REST de un foro con autenticación JWT y gestión de usuarios, cursos, tópicos y respuestas. Incluye autorización por propietario o administrador, validaciones de negocio, Flyway, OpenAPI, pruebas unitarias, Docker e integración continua.
+
+**Java 21 · Spring Boot · Spring Security · PostgreSQL · Flyway · JUnit**
 
 ## En qué estoy trabajando
 
